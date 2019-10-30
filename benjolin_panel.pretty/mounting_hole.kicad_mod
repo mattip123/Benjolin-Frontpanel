@@ -1,0 +1,10 @@
+(module "" (layer F.Cu) (tedit 5DB70416)
+  (fp_text reference @HOLE0 (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+  )
+  (fp_text value "" (at 0 0) (layer F.SilkS)
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+  )
+  (pad "" thru_hole circle (at 0 0) (size 4 4) (drill 3.2) (layers *.Cu *.Mask)
+    (zone_connect 0))
+)
