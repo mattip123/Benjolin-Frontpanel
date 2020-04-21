@@ -3,4 +3,4 @@ Benjolin is created by Rob Hordijk. This is a front panel for Forestcavers smd-v
 
 CC-By-NC 4.0, 2019
 
-Not verified
+Built and tested.
